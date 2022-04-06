@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swsandre
+- 👋 Hi, I’m Andre Hahn
 - 👀 I’m interested in Linux Shell Scripting, Ruby and Cyber Security
 - 🌱 I’m currently learning Linux Shell Scripting.
 - 💞️ I’m looking to collaborate on Ruby on Rails Projects.
