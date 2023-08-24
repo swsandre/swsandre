@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Andre Hahn, I'm an Informatica PowerCenter ETL Developer.
-- 👀 I’m also interested in Linux Shell Scripting, Ruby and Cyber Security.
-- 🌱 I’m currently learning Linux Shell Scripting.
-- 💞️ I’m looking to collaborate on Ruby on Rails Projects.
+- 👋 Hi, my name is André Hahn. I'm a Data Scientist and Python/Django expert.
+- 👀 In the past I was also in Inforamtica Powercenter, Oracle, Data Warehouse and Data Migration projects.
+- 🌱 I'm doing Master in Data Science.
 - 📫 How to reach me ...
 
 <!---
